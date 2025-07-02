@@ -5,6 +5,7 @@
   "tag-separator": "/",
   "packages": {
     "aws/eks": {
+      "component": "aws/eks"
     }
   }
 }
