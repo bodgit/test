@@ -1,0 +1,10 @@
+{
+  "release-type": "go",
+  "include-component-in-tag": true,
+  "separate-pull-requests": true,
+  "tag-separator": "/",
+  "packages": {
+    "aws/eks": {
+    }
+  }
+}
